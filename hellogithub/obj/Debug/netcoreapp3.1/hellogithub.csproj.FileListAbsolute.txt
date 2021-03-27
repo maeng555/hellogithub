@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\hellogithub\hellogithub\bin\Debug\netcoreapp3.1\hellogithub.exe
+C:\Users\user\source\repos\hellogithub\hellogithub\bin\Debug\netcoreapp3.1\hellogithub.deps.json
+C:\Users\user\source\repos\hellogithub\hellogithub\bin\Debug\netcoreapp3.1\hellogithub.runtimeconfig.json
+C:\Users\user\source\repos\hellogithub\hellogithub\bin\Debug\netcoreapp3.1\hellogithub.runtimeconfig.dev.json
+C:\Users\user\source\repos\hellogithub\hellogithub\bin\Debug\netcoreapp3.1\hellogithub.dll
+C:\Users\user\source\repos\hellogithub\hellogithub\bin\Debug\netcoreapp3.1\hellogithub.pdb
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.csprojAssemblyReference.cache
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.AssemblyInfo.cs
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.dll
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.pdb
+C:\Users\user\source\repos\hellogithub\hellogithub\obj\Debug\netcoreapp3.1\hellogithub.genruntimeconfig.cache
